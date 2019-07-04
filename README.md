@@ -6,7 +6,5 @@ When finished `add`, `commit` and `push` to *your* repo. Then, do a _pull reques
 
 ---
 
-
-
-
+Kyle
 Jorden
