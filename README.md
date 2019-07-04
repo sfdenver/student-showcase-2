@@ -6,6 +6,10 @@ When finished `add`, `commit` and `push` to *your* repo. Then, do a _pull reques
 
 ---
 
-
-
 Ishwarya
+Steve
+Scott
+Paul Shannon
+Floyd
+Kyle
+Jorden
