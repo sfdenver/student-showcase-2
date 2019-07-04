@@ -6,13 +6,23 @@ When finished `add`, `commit` and `push` to *your* repo. Then, do a _pull reques
 
 ---
 Hunter
+
 Samih Abdeljabbar
+
 Roger
+
 RC Patterson
+
 Ishwarya
+
 Steve
+
 Scott
+
 Paul Shannon
+
 Floyd
+
 Kyle
+
 Jorden
