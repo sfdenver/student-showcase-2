@@ -11,3 +11,12 @@
   border: solid 3px red;
 } */
 
+#div-6 {
+  align-items: center;
+  background-color: rgb(211, 212, 212);
+  display: flex;
+  flex-direction: column;
+  font-style: italic;
+  padding: 10px;
+}
+
