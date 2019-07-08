@@ -10,3 +10,9 @@
 /* div:not(.container) {
   border: solid 3px red;
 } */
+
+#div-6 {
+  background-color: rgb(212, 205, 205);
+  border: 2px solid black;
+  padding: 10px;
+}
