@@ -1,19 +1,23 @@
 .container {
-  display: grid;
-  grid-gap: 5px;
-  grid-template-columns: repeat(3, 320px);
-  grid-template-rows: repeat(5, 550px);
-  margin: 0 auto;
-  width: 960px;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(3, 320px);
+    grid-template-rows: repeat(5, 550px);
+    margin: 0 auto;
+    width: 960px;
 }
+
 
 /* div:not(.container) {
   border: solid 3px red;
 } */
 
 #div-7 {
-background: silver;
-margin: auto;
-
+    background: silver;
+    margin: auto;
 }
 
+#div-8 {
+    background: whitesmoke;
+    color: black;
+}
