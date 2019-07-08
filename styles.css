@@ -12,6 +12,11 @@
   border: solid 3px red;
 } */
 
+#div-5{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 #div-7 {
     background: silver;
     margin: auto;
