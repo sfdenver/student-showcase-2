@@ -11,8 +11,17 @@
   border: solid 3px red;
 } */
 
+<<<<<<< HEAD
 .div-5{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
+=======
+#div-7 {
+background: silver;
+margin: auto;
+
+}
+
+>>>>>>> 5fd580d39d747077844cdbc23254ad2f6998c02e
