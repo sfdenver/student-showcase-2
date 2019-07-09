@@ -17,6 +17,12 @@
   flex-direction: column;
   justify-content: space-between;
 }
+#div-5 figure{
+  width: 100%;
+}
+#div-5 img{
+  width: 100%;
+}
 #div-7 {
     background: silver;
     margin: auto;
