@@ -23,6 +23,16 @@
 #div-5 img{
   width: 100%;
 }
+
+#div-6 {
+  align-items: center;
+  background-color: rgb(211, 212, 212);
+  display: flex;
+  flex-direction: column;
+  font-style: italic;
+  padding: 10px;
+}
+
 #div-7 {
     background: silver;
     margin: auto;
